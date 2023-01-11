@@ -1,0 +1,12 @@
+.bow{
+    margin-bottom: 10rem;
+}
+
+.bow1{
+    display: flex;
+    margin: auto;
+    width: 35.7142855vw;    /* 71.428571  */
+    height: 35.7142855vw;
+    background: #ffffff;
+    
+}
