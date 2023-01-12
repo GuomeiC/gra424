@@ -5,11 +5,18 @@
 
 }
 
+.square{
+  display: flex;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+
 .square1{
     display: flex;
     margin: auto;
     width: 35.7142855vw;     /* 71.428571  */
-    height: 35.7142855vw;
+    height: 35.7142855vh;
     background: white;
     border: 1px solid rgb(0, 0, 0);
     
@@ -18,13 +25,13 @@
     display: flex;
     margin: auto;
     width: 21.42857vw;        /* 42.85714  */
-    height: 21.42857vw;
+    height: 21.42857vh;
     background: rgb(0, 0, 0);
   }
   .square3{
     display: flex;
     margin: auto;
     width: 7.142857vw;
-    height: 7.142857vw;          /* 14.285714  */
+    height: 7.142857vh;          /* 14.285714  */
     background: white;
   }
