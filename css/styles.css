@@ -1,0 +1,31 @@
+.top{
+    height: 2rem;
+    width: auto;
+    background: white;
+
+}
+
+h1 {
+    color: #000000;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 1rem;
+   
+}
+
+.grid{
+    margin-left: 2rem;
+}
+
+footer {
+    
+    padding: 1.5rem 0;
+}
+
+
