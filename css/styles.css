@@ -8,5 +8,32 @@
     width: 35.7142855vw;    /* 71.428571  */
     height: 35.7142855vw;
     background: #ffffff;
-    
+
 }
+
+#outside {
+    display: flex;
+    margin: auto;
+    width: 35.7142855vw;    /* 71.428571  */
+    height: 35.7142855vw;
+    background: #ffffff;
+
+  }
+  
+#inside {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100px;
+    height: 100px;
+    top: 25%;
+    left: 25%;
+  }
+
+#middle {
+    position: absolute;
+    background-color: #000000;
+    width: 100px;
+    height: 100px;
+    top: 25%;
+    left: 25%;
+  }
