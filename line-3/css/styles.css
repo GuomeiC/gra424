@@ -134,3 +134,64 @@
     background-color: #ffffff;
 
 }
+
+.line-3-holder {
+    display: flex;
+    width: 42.97vw;
+    height: 41.546vh;
+    margin: auto;
+    top: -59.5vh;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.line-3-left {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-30deg);
+    width: 1.462vw;
+    height: 65vh;
+    margin: auto;
+    margin-left: 0;
+    transform-origin: 0% 0%;
+    margin-left: -8vh;
+    
+
+
+}
+
+.line-3 {
+    display: flex;
+    transform: rotate(-30deg);
+    background-color: #000000;
+    width: 1.462vw;
+    height: 70vh;
+    margin: auto;
+    transform-origin: 0% 0%;
+    
+    
+    
+    
+    
+    
+    
+  
+
+
+}
+
+.line-3-right {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    transform: rotate(-30deg);
+    width: 1.462vw;
+    height: 65vh;
+    margin: auto;
+    margin-right: 0;
+    transform-origin: 0% 0%;
+    
+    
+
+
+}
