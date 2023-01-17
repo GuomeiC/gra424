@@ -120,7 +120,7 @@
 .b-hide {
     display: flex;
     margin: auto;
-    width: 14.285714vw;
+    width: 29.285714vw;
     height: 1.2vh;
     background-color: #000000;
 
@@ -129,7 +129,7 @@
 .w-hide {
     display: flex;   
     margin: auto;
-    width: 14.285714vw;
+    width: 15.19vw;
     height: 0.75vh;
     background-color: #ffffff;
 
@@ -137,10 +137,11 @@
 
 .line-3-holder {
     display: flex;
-    width: 42.97vw;
+    width: 58.97vw;
     height: 41.546vh;
     margin: auto;
     top: -59.5vh;
+    margin-left: -16vw;
     overflow: hidden;
     position: relative;
 
@@ -150,7 +151,7 @@
     display: flex;
     background-color: rgb(0, 0, 0);
     transform: rotate(-30deg);
-    width: 1.462vw;
+    width: 1.5462vw;
     height: 65vh;
     margin: auto;
     margin-left: 0;
@@ -165,7 +166,7 @@
     display: flex;
     transform: rotate(-30deg);
     background-color: #000000;
-    width: 1.462vw;
+    width: 1.5462vw;
     height: 70vh;
     margin: auto;
     transform-origin: 0% 0%;
@@ -185,7 +186,7 @@
     display: flex;
     background-color: rgb(0, 0, 0);
     transform: rotate(-30deg);
-    width: 1.462vw;
+    width: 1.5462vw;
     height: 65vh;
     margin: auto;
     margin-right: 0;
