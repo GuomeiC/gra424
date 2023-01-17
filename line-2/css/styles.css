@@ -104,4 +104,33 @@
     margin-right: .1vh;
     margin-top: -10.5vh;
 }
-    
+
+.whitehide {
+    display: flex;
+    flex-direction: column;
+    width: 14.285714vw;
+    height: 2.8vh;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    top: -37.1vh;
+
+}
+
+.b-hide {
+    display: flex;
+    margin: auto;
+    width: 14.285714vw;
+    height: 1vh;
+    background-color: #000000;
+
+}
+
+.w-hide {
+    display: flex;   
+    margin: auto;
+    width: 14.285714vw;
+    height: 0.8vh;
+    background-color: #ffffff;
+
+}
