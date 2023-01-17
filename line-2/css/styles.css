@@ -91,7 +91,7 @@
     height: 30vh;
     margin: auto;
     margin-top: -5.5vh;
-    margin-left: 3vh;
+    margin-left: 3.5vh;
 }
 
 .white2{
@@ -113,7 +113,7 @@
     margin: auto;
     overflow: hidden;
     position: relative;
-    top: -37.1vh;
+    top: -37.11vh;
 
 }
 
@@ -121,7 +121,7 @@
     display: flex;
     margin: auto;
     width: 14.285714vw;
-    height: 1vh;
+    height: 1.2vh;
     background-color: #000000;
 
 }
@@ -130,7 +130,7 @@
     display: flex;   
     margin: auto;
     width: 14.285714vw;
-    height: 0.8vh;
+    height: 0.75vh;
     background-color: #ffffff;
 
 }
