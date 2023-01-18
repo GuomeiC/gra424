@@ -148,11 +148,11 @@
 
 .line-3-holder {
     display: flex;
-    width: 59.97vw;
+    width: 55.97vw;
     height: 41.546vh;
     margin: auto;
     
-    margin-left: -16vw;
+    margin-left: -12vw;
     overflow: hidden;
     position: relative;
 
@@ -167,7 +167,8 @@
     margin: auto;
     margin-left: 0;
     transform-origin: 0% 0%;
-    margin-left: -5vh;
+    margin-left: -12vh;
+    margin-right: 0.05;
     
 
 
@@ -200,7 +201,7 @@
     width: 1.5462vw;
     height: 65vh;
     margin: auto;
-    margin-right: 0;
+    margin-right: 0.8vh;
     transform-origin: 0% 0%;
     
     
