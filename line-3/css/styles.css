@@ -135,12 +135,23 @@
 
 }
 
+.hide-line3 {
+    display: flex;
+    margin: auto;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    overflow: hidden;
+    position: relative;
+    top: -60.17384281vh;
+
+}
+
 .line-3-holder {
     display: flex;
-    width: 58.97vw;
+    width: 59.97vw;
     height: 41.546vh;
     margin: auto;
-    top: -59.5vh;
+    
     margin-left: -16vw;
     overflow: hidden;
     position: relative;
@@ -156,7 +167,7 @@
     margin: auto;
     margin-left: 0;
     transform-origin: 0% 0%;
-    margin-left: -8vh;
+    margin-left: -5vh;
     
 
 
