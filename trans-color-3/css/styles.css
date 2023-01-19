@@ -49,11 +49,11 @@
 .tran-middle {
     width: 14.285714vw;
     height: 14.285714vh;
-    background-color: #c38d54;
+    background-color: #4b647c;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    z-index: 1;
+    
     position: absolute;
 
 }
