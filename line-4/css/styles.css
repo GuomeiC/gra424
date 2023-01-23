@@ -69,7 +69,7 @@
     margin: auto;
     overflow: hidden;
     position: relative;
-    top: -28.17384281vh;
+    top: -28.517384281vh;
 }
     
 
@@ -105,7 +105,7 @@
     margin-top: -10.5vh;
 }
 
-.whitehide {
+whitehide {
     display: flex;
     flex-direction: column;
     width: 14.285714vw;
@@ -117,7 +117,7 @@
 
 }
 
-.b-hide {
+b-hide {
     display: flex;
     margin: auto;
     width: 29.285714vw;
@@ -126,7 +126,7 @@
 
 }
 
-.w-hide {
+w-hide {
     display: flex;   
     margin: auto;
     width: 15.19vw;
@@ -142,7 +142,7 @@
     height: 42.857143vh;
     overflow: hidden;
     position: relative;
-    top: -60.17384281vh;
+    top: -57.17384281vh;
 
 }
 
@@ -167,7 +167,7 @@
     margin: auto;
     margin-left: 0;
     transform-origin: 0% 0%;
-    margin-left: -12vh;
+    margin-left: -11.5vh;
     margin-right: 0.05;
     
 
@@ -203,7 +203,7 @@
     margin: auto;
     overflow: hidden;
     position: relative;
-    top: -88.17384281vh;
+    top: -85.57384281vh;
 }
 
 .white4-1 {
@@ -213,7 +213,7 @@
     width: 0.731vw;
     height: 30vh;
     margin: auto;
-    margin-top: -11.5vh;
+    margin-top: -11vh;
 }
 
 .white4 {
@@ -223,7 +223,7 @@
     width: 0.731vw;
     height: 30vh;
     margin: auto;
-    margin-top: -12vh;
+    margin-top: -11.2vh;
     margin-left: 3.5vh;
 }
 
@@ -235,10 +235,10 @@
     height: 30vh;
     margin: auto;
     margin-right: .1vh;
-    margin-top: -6vh;
+    margin-top: -5vh;
 }
 
-.whitehide-2 {
+whitehide-2 {
     display: flex;
     flex-direction: column;
     width: 14.285714vw;
@@ -250,7 +250,7 @@
 
 }
 
-.b-hide-2 {
+b-hide-2 {
     display: flex;
     margin: auto;
     width: 29.285714vw;
@@ -259,7 +259,7 @@
 
 }
 
-.w-hide-2 {
+w-hide-2 {
     display: flex;   
     margin: auto;
     width: 15.19vw;
