@@ -70,52 +70,79 @@
     background-color: #784a5d;
 }
 
-.inside-holder {
+inside-holder {
     display: flex;
-    width: 14.285714vw;
-    height: 14.285714vh;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    z-index: 1;
-    flex-wrap: wrap;
-  
-    
-
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto; 
+    overflow: hidden;
 }
+
+
 
 .small-square-holder1 {
     display: flex;
     width: 14.285714vw;
     height: 14.285714vh;
-    margin:auto;
+    background-color: none;
+    position: absolute;
+    top: 50.00575%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    flex-wrap: wrap;
     
 }
+
+
 
 .square-5 {
     display: flex;
     width: 7.1428571667vw;
-    height: 7.1428571667vh; 
+    height: 7.1428571667vh;
+
     position: absolute;
-    top: 46.4363%;
-    left: 46.45%;
-    z-index: 1;
+    
+
+ 
     flex-wrap: wrap;
-    background-color: #008cad;
+    background-color: #85c8ce;
 
 }
 
 .square-6 {
     display: flex;
     width: 7.1428571667vw;
-    height: 7.1428571667vh;   
+    height: 7.1428571667vh;
+
     position: absolute;
-    top: 46.4363%;
-    left: 46.45%;
-    transform: translate(-50%,-50%);
-    z-index: 1;
+    
+    left: 50%;
+ 
     flex-wrap: wrap;
-    background-color: #008cad;
+    background-color: #2f89aa;
+
+}
+
+.square-7 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 7.1428571667vh;
+    position: absolute;   
+    flex-wrap: wrap;
+    background-color: #0a4e78;
+    top: 50%;
+    left: 50%;
+}
+
+.square-8 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 7.1428571667vh;
+    position: absolute;   
+    flex-wrap: wrap;
+    background-color: #092e4c;
+    top: 50%;
+    
 }
 
